@@ -1,18 +1,18 @@
 
 ````
-# 📸 Convolutional Neural Network for Image Classification
+📸 Convolutional Neural Network for Image Classification
 
 This repository contains a Jupyter Notebook developed for a Computer Vision project as part of the academic coursework.
 
 ---
 
-## 📂 Contents
+ 📂 Contents
 
 - `Image Classification.ipynb` — The main notebook for implementing and demonstrating a computer vision task using Python and relevant libraries.
 
 ---
 
-## 📌 Features
+ 📌 Features
 
 - Loads and processes image datasets.
 - Applies image pre-processing techniques like resizing, normalization, and augmentation.
@@ -22,7 +22,7 @@ This repository contains a Jupyter Notebook developed for a Computer Vision proj
 
 ---
 
-## 🛠️ Requirements
+ 🛠️ Requirements
 
 - Python 3.x
 - Jupyter Notebook
@@ -36,7 +36,7 @@ This repository contains a Jupyter Notebook developed for a Computer Vision proj
   - `tensorflow` / `keras` 
 ---
 
-## 🚀 How to Run
+ 🚀 How to Run
 
 1. **Clone the repository**
    ```bash
@@ -60,7 +60,7 @@ This repository contains a Jupyter Notebook developed for a Computer Vision proj
 
 ---
 
-## 📊 Results
+ 📊 Results
 
 The notebook includes visualizations, evaluation metrics, and sample predictions to demonstrate the model’s effectiveness on the given image dataset.
 
@@ -68,7 +68,7 @@ The notebook includes visualizations, evaluation metrics, and sample predictions
 
 ---
 
-## ✅ Functions Used  
+ ✅ Functions Used  
 numpy
 pandas
 matplotlib
